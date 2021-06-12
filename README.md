@@ -1,2 +1,10 @@
-# Website
-A laptop website made in Visual Studio using Code First approach following MVC Architecture
+# Facebook
+Facebook structure application
+Classes Identified:
+
+
+1.User
+2.Page
+3.Post
+4.Comment
+5.Facebook
